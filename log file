@@ -1,0 +1,82 @@
+commit e5bc29ab23368c265b96de726648f2c66e9b874f
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 13 19:27:32 2018 +0200
+
+    EX6 - Final Version
+
+
+commit 0511e6080d2cf83b4028942c198a6ed6bbbda7ac
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 13 18:45:49 2018 +0200
+
+    Reversi ex2 after convert to Java & fixed bugs.
+
+commit e337bf79a140ac156bd54494cb52c32b6c068121
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 13 18:44:25 2018 +0200
+
+    Class to handle with the settings that the user choose (that update the text file)
+
+commit e5bc29ab23368c265b96de726648f2c66e9b874f
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 13 11:57:32 2018 +0200
+
+    EX6 - Final Version
+
+commit a9e484989aad91712c10a574fafa89460aba4b3d
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 13 10:16:37 2018 +0200
+
+    Upload the Main
+
+commit 0511e6080d2cf83b4028942c198a6ed6bbbda7ac
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 12 23:35:49 2018 +0200
+
+    Reversi ex2 after convert to Java
+
+commit e337bf79a140ac156bd54494cb52c32b6c068121
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 12 21:11:09 2018 +0200
+
+    Class to handle with the settings that the user choose (that update the text file)
+
+commit b69e6ba958c2336a7289f4dccae5acc9bbdbae95
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 12 18:43:12 2018 +0200
+
+    Controllers of the fxml's that we have built
+
+commit f36d116711cb290bb7824658ffd13dbdf5dc05ba
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 12 19:32:17 2018 +0200
+
+    Library of the images of the players - whith, black.. etc
+
+commit e58fed2a3a9b88493f1744204191cdeedf187f7f
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 12 11:29:54 2018 +0200
+
+    Settings.fxml
+
+commit cbdd3f9000e657f996c5dddf0b1999716a555461
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 11 16:55:12 2018 +0200
+
+    Board fxml
+
+commit b76c14be3c7be04a7aed41797dbd4488c583bdd7
+Author: ofir408 <ofir408@gmail.com>
+Date:   Sat Jan 11 12:18:30 2018 +0200
+
+    Add menu fxml
+
+commit 886f3d881a63d8c494acea8d2f283c42780cb72f
+Author: ofir408 <ofir408@gmail.com>
+Date:   Tue Jan 9 22:53:47 2018 +0200
+
+    last ex1
+
+commit b6da494edb29399738ccdd1ce53c9d92fb5446c3
+:
+
